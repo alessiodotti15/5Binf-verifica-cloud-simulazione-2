@@ -27,9 +27,9 @@ Accesso ad AWS:
 Attenzione: **non** fermate o terminate l'istanza da voi generata perché mi servirà per la correzione!
 
 Creazione degli screenshot di benchmarks:
-- [ ] aprite gli strumenti sviluppatore sul vostro browser cliccando con il tasto destro in qualunque punto della pagina e selezionando "Ispeziona" o "Analizza Elemento"
-- [ ] andate sul tab "Rete" (o "Network")
-- [ ] ricaricate la pagina
+- [X] aprite gli strumenti sviluppatore sul vostro browser cliccando con il tasto destro in qualunque punto della pagina e selezionando "Ispeziona" o "Analizza Elemento"
+- [X] andate sul tab "Rete" (o "Network")
+- [X] ricaricate la pagina
 - [ ] fate lo screenshot
 - [ ] copiate lo screenshot nella cartella `benchmarks`  
 
